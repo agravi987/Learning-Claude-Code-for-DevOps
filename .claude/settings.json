@@ -1,0 +1,6 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "echo \"Model: {{model}} | Tokens: {{tokens_used}} | Price: ${{price}}\""
+  }
+}
