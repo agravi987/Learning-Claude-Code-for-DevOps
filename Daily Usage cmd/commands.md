@@ -12,6 +12,7 @@ Below is a clean, easy‑to‑read guide to the most useful slash commands you c
 | **`/export`**  | Saves the full conversation (messages and context) to a file on disk for later review.                                       | Creating a record of the session for documentation, sharing with teammates, or future reference. |
 | **`/config`**  | Opens the configuration view where you can read or modify Claude Code settings (e.g., model choice, permissions, hooks).     | Tweaking behavior, enabling/disabling permissions, or adjusting performance options.             |
 | **`/model`**   | Shows the language model currently in use and lets you switch to a different one (e.g., Opus, Sonnet, Haiku).                | Trying a faster model for quick tasks or a more capable one for complex reasoning.               |
+| **`/agents`** | Shows the list of available sub‑agents and their status. | Inspecting or debugging sub‑agents. |
 
 | **`/permissions`** | Displays the current permissions granted to Claude Code and allows you to revoke or grant new ones. | Managing access to files, APIs, or other resources that Claude can interact with. |
 
